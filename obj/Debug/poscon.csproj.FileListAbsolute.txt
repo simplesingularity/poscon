@@ -1,0 +1,10 @@
+C:\Users\rolan\source\repos\poscon\poscon\bin\Debug\poscon.exe.config
+C:\Users\rolan\source\repos\poscon\poscon\bin\Debug\poscon.exe
+C:\Users\rolan\source\repos\poscon\poscon\bin\Debug\poscon.pdb
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.Form1.resources
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.Properties.Resources.resources
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.csproj.GenerateResource.cache
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.exe
+C:\Users\rolan\source\repos\poscon\poscon\obj\Debug\poscon.pdb
